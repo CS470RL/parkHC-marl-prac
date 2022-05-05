@@ -15,7 +15,7 @@ while not done:
 
 
     # observation, reward, done, info = env.step(np.random.rand(4).tolist())
-    env.render()
+    # env.render()
 
 # env.reset()
 # for agent in env.agent_iter():
